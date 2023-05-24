@@ -1,0 +1,149 @@
+.container-fondo {
+    background-image: url('../images/index4/FondoCielo.png');
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-size: 2048px 1536px;
+    background-position: center;
+}
+
+#panotos-text {
+    position: absolute;
+    top: 27%;
+    width: 70%;
+    left: 26%;
+}
+
+#panotos-1 {
+    position: absolute;
+    top: 27%;
+    width: 16%;
+    left: 10%;
+    transform: scale(0.8);
+}
+
+#panotos-2 {
+    position: absolute;
+    top: 37%;
+    width: 18%;
+    left: 63.5%;
+    transform: scale(0.8);
+}
+
+
+
+#cards-1 {
+    position: absolute;
+    top: 43%;
+    width: 17.5%;
+    left: 9.5%;
+}
+
+#cards-2 {
+    position: absolute;
+    top: 43%;
+    width: 17.5%;
+    left: 31.5%;
+}
+
+#cards-3 {
+    position: absolute;
+    top: 43%;
+    width: 17.5%;
+    left: 53.5%;
+}
+
+#cards-4 {
+    position: absolute;
+    top: 43%;
+    width: 17.5%;
+    left: 75.5%;
+}
+
+#cards-1:hover, #cards-2:hover, #cards-3:hover,  #cards-4:hover {
+    transform: translate(0, -20px) !important;
+    transition: transform 0.3s;
+}
+
+#icon-1 {
+    position: absolute;
+    top: 63.5%;
+    width: 8%;
+    left: 15%;
+}
+
+#icon-2 {
+    position: absolute;
+    top: 63.5%;
+    width: 6.8%;
+    left: 36.9%;
+}
+
+#icon-3 {
+    position: absolute;
+    top: 63.5%;
+    width: 6%;
+    left: 59%;
+}
+
+#icon-4 {
+    position: absolute;
+    top: 63.5%;
+
+    width: 6%;
+    left: 81%;
+}
+
+#icono{
+    position: absolute;
+    top: 37.5%;
+    width: 9%;
+    left: 5%;
+}
+
+#accion{
+    position: absolute;
+    top: 69%;
+    width: 2.4%;
+    left: 28%;
+}
+#accion2{
+    position: absolute;
+    top: 69%;
+    width: 2.4%;
+    left: 50%;
+}
+#accion3{
+    position: absolute;
+    top: 69%;
+    width: 2.4%;
+    left: 72%;
+}
+
+
+
+#titulo-footer{
+        position: absolute;
+        top: 81%;
+        width: 45%;
+        left: 19.5%;
+}
+
+#plantas{
+    position: absolute;
+    top: 80%;
+    width: 13%;
+    left: 63.5%;
+}
+
+#titulo-german{
+    position: absolute;
+    top: 84%;
+    width: 7.6%;
+    left: 77.5%;
+}
+

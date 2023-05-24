@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 935.82 558.58">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Aller, Aller;
+        font-size: 32.13px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #001783;
+      }
+
+      .cls-2 {
+        font-family: Aller-Bold, Aller;
+        font-size: 41.76px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <text class="cls-1" transform="translate(0 78.11)"><tspan x="0" y="0">100 %</tspan><tspan x="16.48" y="94.49">80 %</tspan><tspan x="16.48" y="188.97">60 %</tspan><tspan x="16.48" y="283.46">40 %</tspan><tspan x="16.48" y="377.95">20 %</tspan><tspan x="32.96" y="472.44">0 %</tspan></text>
+      <text class="cls-2" transform="translate(261.02 39.49)"><tspan x="0" y="0">82 %</tspan></text>
+      <text class="cls-2" transform="translate(396.07 35.89)"><tspan x="0" y="0">80 %</tspan></text>
+      <text class="cls-2" transform="translate(693.88 39.49)"><tspan x="0" y="0">29 %</tspan></text>
+      <text class="cls-2" transform="translate(834.77 35.89)"><tspan x="0" y="0">36 %</tspan></text>
+    </g>
+  </g>
+</svg>

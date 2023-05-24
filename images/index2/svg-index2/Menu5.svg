@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 359.02 91.56">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fafbfb;
+        font-family: Aller-Bold, Aller;
+        font-size: 30.59px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_197);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_197" data-name="Degradado sin nombre 197" x1="179.51" y1="93.2" x2="179.51" y2="-37.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00012a"/>
+      <stop offset=".14" stop-color="#00073f"/>
+      <stop offset=".67" stop-color="#005de7"/>
+      <stop offset="1" stop-color="#030055"/>
+    </linearGradient>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <path class="cls-5" d="m0,91.56V22.1C0,9.96,9.57.02,21.27.02h264.84c11.7,0,26.77-1.59,37.48,22.04l35.44,69.5"/>
+      <text></text>
+      <text class="cls-1" transform="translate(21.15 58.38)"><tspan class="cls-3" x="0" y="0">La magia de </tspan><tspan class="cls-4" x="163.13" y="0">P</tspan><tspan class="cls-3" x="179.92" y="0">anoto-s</tspan></text>
+      <text class="cls-2" transform="translate(299.66 48.19) scale(.58)"><tspan x="0" y="0">®</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+.container-fondo {
+    background-image: url('../images/index3/FondoCielo.png');
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-size: 2048px 1536px;
+    background-position: center;
+}
+
+
+#panotos-text{
+    position: absolute;
+    top: 28%;
+    width: 80%;
+    left: 10%;
+}
+#graph-Titulo{
+    position: absolute;
+    top: 34%;
+    width: 23.5%;
+    left: 24%;
+}
+#graph-1{
+    position: absolute;
+    top: 48.5%;
+    width: 46.9%;
+    left: 13.6%;
+}
+
+#graph-2{
+    position: absolute;
+    top: 44.5%;
+    width: 44%;
+    left: 8%;
+}
+
+#tuboRosaChico:hover,#tuboAmaChico:hover,#tuboAmaGrande:hover,#tuboRosaGrande:hover {
+    transform: translate(0, -20px) !important;
+    transition: transform 0.3s;
+}
+
+#tuboRosaChico{
+    position: absolute;
+    top: 48.3%;
+    width: 8.5%;
+    left: 46%; 
+}
+
+#tuboAmaChico{
+    position: absolute;
+    top: 48.3%;
+    width: 8.5%;
+    left: 39%; 
+}
+
+#tuboAmaGrande{
+    position: absolute;
+    top: 48.3%;
+    width: 8.5%;
+    left: 18.3%; 
+}
+
+#tuboRosaGrande{
+    position: absolute;
+    top: 48.3%;
+    width: 8.5%;
+    left: 25%; 
+
+}
+
+#graph-3{
+    position: absolute;
+    top: 83%;
+    width: 65%;
+    left: 7%;  
+}
+#titulo-izq{
+    position: absolute;
+    top: 55%;
+    width: 33.5%;
+    left: 64%;  
+}
+#titulo-Pano{
+    position: absolute;
+    top: 55%;
+    width: 15%;
+    left: 76.3%;  
+}
+
+#titulo-Linea{
+    position: absolute;
+    top: 64%;
+    width: 14%;
+    left: 83.5%;  
+}
+
+#vaso{
+    position: absolute;
+    top: 74%;
+    width: 5%;
+    left: 77%;   
+}
+
+

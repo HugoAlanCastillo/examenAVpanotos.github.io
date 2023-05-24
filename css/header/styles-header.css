@@ -1,0 +1,45 @@
+/* IMAGENES LOGOS */
+
+#panotos-logo1 {
+    position: absolute;
+    bottom: 62%;
+    left: 130px;
+    width: 36%;
+    height: 36%;
+    mask: url(#mascara-svg);
+}
+
+#panotos-logo2 {
+    position: absolute;
+    bottom: 70%;
+    left: 150px;
+    width: 43%;
+    height: 36%;
+    mask: url(#mascara-svg);
+}
+
+#panotos-titulo1 {
+    position: absolute;
+    bottom: 73.5%;
+    right: 19%;
+    width: 27%;
+    height: 36%;
+    mask: url(#mascara-svg);
+}
+
+#panotos-titulo2 {
+    position: absolute;
+    bottom: 69%;
+    right: 60px;
+    width: 33%;
+    height: 36%;
+    mask: url(#mascara-svg);
+}
+
+#rama {
+    position: absolute;
+    bottom: 68.5%;
+    right: -170px;
+    width: 53%;
+    mask: url(#mascara-svg);
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375.47 584.99">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 40.86px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: .04em;
+      }
+
+      .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-8 {
+        font-size: 104.76px;
+        mix-blend-mode: multiply;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        font-family: Aller-Bold, Aller;
+        font-weight: 700;
+      }
+
+      .cls-8, .cls-11 {
+        fill: #d1d600;
+      }
+
+      .cls-9, .cls-10, .cls-12 {
+        fill: #010f70;
+      }
+
+      .cls-10 {
+        font-size: 36.67px;
+      }
+
+      .cls-12 {
+        font-family: Aller, Aller;
+        font-size: 26.22px;
+      }
+
+      .cls-13 {
+        font-size: 32.48px;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g class="cls-7">
+    <g id="Capa_2" data-name="Capa 2">
+      <g id="Capa_1-2" data-name="Capa 1">
+        <rect class="cls-11" y="1.93" width="375.47" height="399.79"/>
+        <text class="cls-9" transform="translate(133.17 539.94)"><tspan class="cls-4"><tspan x="0" y="0">Alivia</tspan></tspan><tspan class="cls-13"><tspan x="-51.78" y="36.67">la inflamación</tspan></tspan></text>
+        <text class="cls-10" transform="translate(138.4 108.27)"><tspan class="cls-5" x="0" y="0">Ac</tspan><tspan class="cls-1" x="39.64" y="0">ción</tspan><tspan x="-88.59" y="35.62">Ant</tspan><tspan class="cls-6" x="-29.7" y="35.62">i</tspan><tspan x="-16.98" y="35.62">inflamatoria </tspan></text>
+        <text class="cls-12" transform="translate(99.27 200.15)"><tspan class="cls-15" x="0" y="0">C</tspan><tspan class="cls-17" x="14.92" y="0">omp</tspan><tspan class="cls-3" x="66.11" y="0">r</tspan><tspan class="cls-17" x="74.42" y="0">obado en</tspan><tspan class="cls-14" x="-18.66" y="28.61">c</tspan><tspan class="cls-17" x="-7.07" y="28.61">élulas pulmona</tspan><tspan class="cls-2" x="160.49" y="28.61">r</tspan><tspan class="cls-17" x="168.81" y="28.61">e</tspan><tspan class="cls-16" x="181.94" y="28.61">s</tspan><tspan x="192.04" y="28.61">.</tspan></text>
+        <text class="cls-8" transform="translate(289.64 90.04)"><tspan x="0" y="0">3</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

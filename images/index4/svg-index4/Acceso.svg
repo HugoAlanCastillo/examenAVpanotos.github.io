@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 43.51 169.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #92c601;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_210);
+        mix-blend-mode: multiply;
+        opacity: .41;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_210" data-name="Degradado sin nombre 210" x1="0" y1="84.64" x2="43.51" y2="84.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#606060"/>
+      <stop offset="0" stop-color="#606060" stop-opacity=".99"/>
+      <stop offset=".1" stop-color="#717171" stop-opacity=".68"/>
+      <stop offset=".2" stop-color="#7f7f7f" stop-opacity=".43"/>
+      <stop offset=".32" stop-color="#898989" stop-opacity=".24"/>
+      <stop offset=".46" stop-color="#919191" stop-opacity=".1"/>
+      <stop offset=".64" stop-color="#959595" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#979797" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-2">
+    <g id="Capa_2" data-name="Capa 2">
+      <g id="Capa_1-2" data-name="Capa 1">
+        <rect class="cls-3" width="43.51" height="169.29"/>
+        <polyline class="cls-1" points="2.37 50.1 36.91 84.64 2.37 119.18"/>
+      </g>
+    </g>
+  </g>
+</svg>

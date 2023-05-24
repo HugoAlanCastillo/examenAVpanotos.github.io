@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./images/vasito.ico" type="image/x-icon">
+    <!-- css -->
+    <link rel="stylesheet" href="./css/style-index6.css" />
+    <link rel="stylesheet" href="./css/navbar/style-navbar.css" />
+    <link rel="stylesheet" href="./css/header/styles-header.css" />
+    <link rel="stylesheet" href="./css/close/style-close.css" />
+    <!-- gsap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+
+    <title>Referencias</title>
+  </head>
+
+  <body>
+    <div class="container-fondo">
+      <div class="close">
+        <button id="btnCerrar">Cerrar</button>
+      </div>
+
+      <header id="container-patanos-head">
+        <img
+          id="panotos-logo2"
+          src="./images/index2/svg-index2/PanotosLogo2.svg"
+        />
+        <img
+          id="panotos-logo1"
+          src="./images/index2/svg-index2/PanotosLogo1.svg"
+        />
+        <img
+          id="panotos-titulo2"
+          src="./images/index2/svg-index2/TextoHuella.svg"
+        />
+        <img
+          id="panotos-titulo1"
+          src="./images/index2/svg-index2/TextoOriginal.svg"
+        />
+        <img id="rama" src="./images/index2/png-index2/Rama.png" />
+      </header>
+
+      <footer id="container-footer">
+        <img id="Icon5" src="./images/index6/svg-index6/Icon5.svg" />    
+        <img id="Icon4" src="./images/index6/svg-index6/Icon4.svg" />
+        <img id="Icon3" src="./images/index6/svg-index6/Icon3.svg" />
+        <img id="Icon2" src="./images/index6/svg-index6/Icon2.svg" />
+        <img id="Icon1" src="./images/index6/svg-index6/Icon1.svg" />
+      </footer>
+
+      <nav id="container-navbar">
+        <img id="Menu1" class="menu-item" src="./images/index2/svg-index2/Menu1.svg" onclick="redirectToIndex1()" />
+        <img id="Menu2" class="menu-item" src="./images/index3/svg-index3/Menu2.svg" onclick="redirectToIndex2()" />
+        <img id="Menu3" class="menu-item" src="./images/index2/svg-index2/Menu3.svg" onclick="redirectToIndex3()" />
+        <img id="Menu4" class="menu-item" src="./images/index2/svg-index2/Menu4.svg" onclick="redirectToIndex4()" />
+        <img id="Menu5" class="menu-item" src="./images/index2/svg-index2/Menu5.svg" onclick="redirectToIndex5()" />
+        <img id="Menu6" class="menu-item" src="./images/index6/svg-index6/Menu6A.svg" onclick="redirectToIndex6()" />    
+      </nav>
+
+      <button class="fullscreen-button" onclick="redirectToIndex2()"></button>
+
+      <!-- Scripts -->
+      <script src="./js/index6/gsap.js"></script>
+      <script src="./js/index6/app.js"></script>
+      <script src="./js/rutes/redirect.js"></script>
+      <script src="./js/header/header.js"></script>
+      <script src="./js/close/close.js"></script>
+    </div>
+  </body>
+</html>

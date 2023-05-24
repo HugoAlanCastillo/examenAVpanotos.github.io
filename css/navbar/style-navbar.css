@@ -1,0 +1,35 @@
+
+#Menu1, #Menu2, #Menu3, #Menu4, #Menu5, #Menu6 {
+    position: absolute;
+    width: 16.5%;
+    top: 94.4%;
+}
+#Menu1:hover, #Menu2:hover, #Menu3:hover, #Menu4:hover, #Menu5:hover, #Menu6:hover{
+    transform: translate(0, -5px) !important;
+    transition: transform 0.3s;
+    
+}
+
+.menu-item {
+    filter: drop-shadow(0px 22px 26px rgb(6, 26, 139)) drop-shadow(0px 2px 6px rgba(4, 3, 78, 0.993));
+  }
+#container-navbar{
+
+}
+
+#Menu2{
+    left: 16.01%;
+} 
+#Menu3{
+    left: 32.8%; 
+
+} 
+#Menu4{
+    left: 49.7%; 
+} 
+#Menu5{
+    left: 66.5%;  
+} 
+#Menu6{
+left: 83.3%;     
+}

@@ -1,0 +1,83 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+/* FONDO */
+.container-fondo {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+        background-image: url('../images/index2/FondoCielo2.png');
+        background-repeat: no-repeat;
+        background-size: 2048px 1536px;
+        background-position: center;
+}
+
+
+
+
+
+#panotos-text {
+        position: absolute;
+        top: 33.5%;
+        right: 31.5%;
+        width: 35%;
+        mask: url(#mascara-svg);
+        transform: scale(1);
+        transition: transform 0.3s;
+}
+
+#panatos-text.hightlight {
+        transform: scale(1.1);
+}
+
+
+#cards-R {
+        position: absolute;
+        top: 42%;
+        left: 5%;
+        width: 27%;
+
+}
+
+#cards-C {
+        position: absolute;
+        top: 42%;
+        left: 37%;
+        width: 27%;
+    
+}
+
+
+#cards-P {
+        position: absolute;
+        top: 42%;
+        left: 68%;
+        width: 27%;
+}
+
+#cards-C:hover,#cards-R:hover,#cards-P:hover {
+        transform: translate(0, -20px) !important;
+        transition: transform 0.3s;
+}
+
+
+#linea-cardsTOS {
+        position: absolute;
+        width: 29.5%;
+        top: 32.5%;
+        left: 53.3%;
+}
+
+#linea-cardsRED{
+        position: absolute;
+        width: 26.5%;
+        top: 85%;
+        left: 15.5%;
+}
+

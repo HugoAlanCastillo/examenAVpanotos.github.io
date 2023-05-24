@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 449.33 134.02">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 49.07px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #010f70;
+        font-family: Aller-Bold, Aller;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        font-size: 62.78px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <text class="cls-2" transform="translate(0 74.87)"><tspan x="0" y="0">Eficacia Clínica</tspan></text>
+      <text class="cls-2" transform="translate(432.86 53.96) scale(.58)"><tspan x="0" y="0">⁴</tspan></text>
+      <text class="cls-1" transform="translate(21.15 121.37)"><tspan x="0" y="0">en tos p</tspan><tspan class="cls-3" x="176.78" y="0">r</tspan><tspan x="195.77" y="0">oductiva</tspan></text>
+    </g>
+  </g>
+</svg>

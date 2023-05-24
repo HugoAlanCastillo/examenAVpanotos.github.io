@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./images/vasito.ico" type="image/x-icon" />
+    <!-- css -->
+    <link rel="stylesheet" href="./css/style-index2.css" />
+    <link rel="stylesheet" href="./css/navbar/style-navbar.css" />
+    <link rel="stylesheet" href="./css/header/styles-header.css" />
+    <link rel="stylesheet" href="./css/close/style-close.css" />
+    <!-- gsap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+
+    <title>Control de tos</title>
+  </head>
+
+  <body>
+    <div class="container-fondo">
+      <div class="close">
+        <button id="btnCerrar">Cerrar</button>
+      </div>
+      <section id="container-patanos-head">
+        <img
+          id="panotos-logo2"
+          src="./images/index2/svg-index2/PanotosLogo2.svg"
+        />
+        <img
+          id="panotos-logo1"
+          src="./images/index2/svg-index2/PanotosLogo1.svg"
+        />
+        <img
+          id="panotos-titulo2"
+          src="./images/index2/svg-index2/TextoHuella.svg"
+        />
+        <img
+          id="panotos-titulo1"
+          src="./images/index2/svg-index2/TextoOriginal.svg"
+        />
+        <img id="rama" src="./images/index2/png-index2/Rama.png" />
+      </section>
+
+      <section id="container-body">
+        <img id="panotos-text" src="./images/index2/svg-index2/Texto1.svg" />
+        <article class="container-cards">
+          <img
+            id="cards-R"
+            class="card"
+            src="./images/index2/png-index2/CardRapido.png"
+          />
+          <img
+            id="cards-C"
+            class="card"
+            src="./images/index2/png-index2/CardControl.png"
+          />
+          <img
+            id="cards-P"
+            class="card"
+            src="./images/index2/png-index2/CardPotencia.png"
+          />
+
+          <img
+            id="linea-cardsTOS"
+            src="./images/index2/svg-index2/LineaRedescubra.svg"
+          />
+          <img
+            id="linea-cardsRED"
+            src="./images/index2/svg-index2/LineaControlTos.svg"
+          />
+        </article>
+      </section>
+
+      <nav id="container-navbar">
+        <img
+          id="Menu1"
+          class="menu-item"
+          src="./images/index2/svg-index2/Menu1.svg"
+          onclick="redirectToIndex1()"
+        />
+        <img
+          id="Menu2"
+          class="menu-item"
+          src="./images/index2/svg-index2/Menu2.svg"
+          onclick="redirectToIndex2()"
+        />
+        <img
+          id="Menu3"
+          class="menu-item"
+          src="./images/index2/svg-index2/Menu3.svg"
+          onclick="redirectToIndex3()"
+        />
+        <img
+          id="Menu4"
+          class="menu-item"
+          src="./images/index2/svg-index2/Menu4.svg"
+          onclick="redirectToIndex4()"
+        />
+        <img
+          id="Menu5"
+          class="menu-item"
+          src="./images/index2/svg-index2/Menu5.svg"
+          onclick="redirectToIndex5()"
+        />
+        <img
+          id="Menu6"
+          class="menu-item"
+          src="./images/index2/svg-index2/Menu6.svg"
+          onclick="redirectToIndex6()"
+        />
+      </nav>
+
+      <button class="fullscreen-button" onclick="redirectToIndex2()"></button>
+
+      <!-- Scripts -->
+
+      <script src="./js/index2/gsap.js"></script>
+      <script src="./js/index2/app.js"></script>
+      <script src="./js/rutes/redirect.js"></script>
+      <script src="./js/header/header.js"></script>
+      <script src="./js/close/close.js"></script>
+    </div>
+  </body>
+</html>
